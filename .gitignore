@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/.~lock.feature_info_as_table.ods#
