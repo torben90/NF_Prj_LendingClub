@@ -23,7 +23,8 @@ Make sure to check data imbalance.
 
 ---
 
-
+About Credit Terminology
+https://credit.org/financial-terms-glossary/
 
 
 General Idea
