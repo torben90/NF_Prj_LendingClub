@@ -1,0 +1,64 @@
+Lending Club is a peer-to-peer loan company. 
+It runs an online marketplace to match borrowers with lenders. 
+Borrowers apply for loans ranging from $1,000 to $35,000. 
+If the application is approved, Lending Club will offer a loan whose interest rate is 
+based on submitted information and credit history. The process is largely automated, 
+reducing overhead costs that banks typically incur. 
+Peer-to-peer loan companies claim that they can therefore offer better rates for borrowers.
+
+Individuals interested in lending to these borrowers can fund these loans in $25 increments. 
+When browsing loans on the online marketplace, investors will see the following page:
+
+
+id                            42538 non-null object
+member_id                     42535 non-null float64
+loan_amnt                     42535 non-null float64
+funded_amnt                   42535 non-null float64
+funded_amnt_inv               42535 non-null float64
+term                          42535 non-null object
+int_rate                      42535 non-null object
+installment                   42535 non-null float64
+grade                         42535 non-null object
+sub_grade                     42535 non-null object
+emp_title                     39909 non-null object
+emp_length                    41423 non-null object
+home_ownership                42535 non-null object
+annual_inc                    42531 non-null float64
+verification_status           42535 non-null object
+issue_d                       42535 non-null object
+loan_status                   42535 non-null object
+pymnt_plan                    42535 non-null object
+purpose                       42535 non-null object
+title                         42522 non-null object
+zip_code                      42535 non-null object
+addr_state                    42535 non-null object
+dti                           42535 non-null float64
+delinq_2yrs                   42506 non-null float64
+earliest_cr_line              42506 non-null object
+inq_last_6mths                42506 non-null float64
+open_acc                      42506 non-null float64
+pub_rec                       42506 non-null float64
+revol_bal                     42535 non-null float64
+revol_util                    42445 non-null object
+total_acc                     42506 non-null float64
+initial_list_status           42535 non-null object
+out_prncp                     42535 non-null float64
+out_prncp_inv                 42535 non-null float64
+total_pymnt                   42535 non-null float64
+total_pymnt_inv               42535 non-null float64
+total_rec_prncp               42535 non-null float64
+total_rec_int                 42535 non-null float64
+total_rec_late_fee            42535 non-null float64
+recoveries                    42535 non-null float64
+collection_recovery_fee       42535 non-null float64
+last_pymnt_d                  42452 non-null object
+last_pymnt_amnt               42535 non-null float64
+last_credit_pull_d            42531 non-null object
+collections_12_mths_ex_med    42390 non-null float64
+policy_code                   42535 non-null float64
+application_type              42535 non-null object
+acc_now_delinq                42506 non-null float64
+chargeoff_within_12_mths      42390 non-null float64
+delinq_amnt                   42506 non-null float64
+pub_rec_bankruptcies          41170 non-null float64
+tax_liens                     42430 non-null float64
