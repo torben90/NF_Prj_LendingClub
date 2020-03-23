@@ -1,4 +1,4 @@
-name: nf
+name: nf2
 channels:
   - anaconda
   - conda-forge
