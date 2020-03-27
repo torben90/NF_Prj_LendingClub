@@ -19,5 +19,7 @@ false negatives. This is achieved by a model with a high recall rate.
 What would be right performance metric- precision, recall, accuracy, F1 score, or something else?
 
 ## more details
-Find also the presentation and more information in the jupyter notebook : [LendingClub_Main.ipynb](LendingClub_Main.ipynb)
+Find also the [presentation](DF_prj_LendingClub_Presentation.pdf) and more information in the jupyter notebook : [LendingClub_Main.ipynb](LendingClub_Main.ipynb)
+
+
 
