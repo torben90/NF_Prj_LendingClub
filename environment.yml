@@ -1,4 +1,4 @@
-name: nf
+name: nf2
 channels:
   - anaconda
   - conda-forge
@@ -53,6 +53,7 @@ dependencies:
   - h5py=2.10.0=py36h3134771_0
   - hdf5=1.10.4=hfa1e0ec_0
   - icu=64.2=h6de7cb9_1
+  - imbalanced-learn=0.6.2=py_0
   - importlib_metadata=1.5.0=py36_0
   - intel-openmp=2019.4=233
   - ipykernel=5.1.4=py36h39e3cac_0
@@ -204,14 +205,4 @@ dependencies:
   - zipp=2.2.0=py_0
   - zlib=1.2.11=h1de35cc_3
   - zstd=1.4.4=hed8d7c8_2
-  - pip:
-    - branca==0.4.0
-    - chardet==3.0.4
-    - chart-studio==1.0.0
-    - folium==0.10.1
-    - idna==2.9
-    - requests==2.23.0
-    - sklearn==0.0
-    - torch==1.4.0
-    - urllib3==1.25.8
 

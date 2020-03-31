@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/.~lock.feature_info_as_table.ods#
+sub_notebooks/.~lock.emp_title.csv#
+sub_notebooks/.~lock.title.csv#
